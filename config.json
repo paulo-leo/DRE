@@ -1,0 +1,12 @@
+{
+        "name": "DRE",
+        "description": "Aplicativo para demonstrativo de resultado e exercício.",
+        "version": "0.1",
+		"author": "Paulo Leonardo da Silva Cassimiro",
+        "license": "MIT",
+        "require": ["php7"],
+        "url": "www.russelservicos.com.br",
+		"icon": "table_chart",
+		"color":"success",
+		"route":"fin/reports/create?report_type=dre"
+}
